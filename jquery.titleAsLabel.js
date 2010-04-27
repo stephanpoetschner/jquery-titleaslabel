@@ -1,3 +1,4 @@
+"use strict";
 (function($) {
     $.fn.titleAsLabel = function(settings) {
         //var defaultSettings = {'foo': 'bar'};
