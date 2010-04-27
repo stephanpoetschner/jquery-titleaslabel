@@ -1,0 +1,15 @@
+h1. Title-As-Label jQuery Plugin
+
+Will set the title attribute as value of the input field, if no user input is supplied.
+
+h2. Usage
+
+<pre>
+<input title="Some Description" type="text" />
+
+<script>
+   $(function () {
+      $('input').titleAsLabel();
+   });
+</script>
+</pre>
